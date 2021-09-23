@@ -1,0 +1,89 @@
+
+
+   ---- Transcoding 'C:\Users\ADMINI~2\AppData\Local\Temp\423-32v103_importZIP\copper_top.gbr' ----   Thu Sep 23 16:52:39 2021
+
+D11   --> D100
+D12   --> D101
+D16   --> D102
+D17   --> D103
+D18   --> D104
+D19   --> D105
+D20   --> D106
+D21   --> D107
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\ADMINI~2\AppData\Local\Temp\423-32v103_importZIP\profile.gbr' ----   Thu Sep 23 16:52:39 2021
+
+D10   --> D108
+D11   --> D109
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\ADMINI~2\AppData\Local\Temp\423-32v103_importZIP\silkscreen_bottom.gbr' ----   Thu Sep 23 16:52:39 2021
+
+D10   --> D110
+D11   --> D111
+D12   --> D112
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\ADMINI~2\AppData\Local\Temp\423-32v103_importZIP\silkscreen_top.gbr' ----   Thu Sep 23 16:52:39 2021
+
+D10   --> D113
+D11   --> D114
+D12   --> D115
+D13   --> D116
+D14   --> D117
+D15   --> D118
+D16   --> D119
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\ADMINI~2\AppData\Local\Temp\423-32v103_importZIP\soldermask_bottom.gbr' ----   Thu Sep 23 16:52:39 2021
+
+D10   --> D120
+D11   --> D121
+D12   --> D122
+D13   --> D123
+D14   --> D124
+D15   --> D125
+D16   --> D126
+D17   --> D127
+D18   --> D128
+D19   --> D129
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\ADMINI~2\AppData\Local\Temp\423-32v103_importZIP\soldermask_top.gbr' ----   Thu Sep 23 16:52:39 2021
+
+D10   --> D130
+D11   --> D131
+D12   --> D132
+D13   --> D133
+D14   --> D134
+D15   --> D135
+D16   --> D136
+D17   --> D137
+D18   --> D138
+D19   --> D139
+D20   --> D140
+D21   --> D141
+D22   --> D142
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\ADMINI~2\AppData\Local\Temp\423-32v103_importZIP\solderpaste_bottom.gbr' ----   Thu Sep 23 16:52:39 2021
+
+D11   --> D143
+D12   --> D144
+D13   --> D145
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\ADMINI~2\AppData\Local\Temp\423-32v103_importZIP\solderpaste_top.gbr' ----   Thu Sep 23 16:52:39 2021
+
+D11   --> D146
+D13   --> D147
+D14   --> D148
+-----------------------------------------------------------------
