@@ -1,0 +1,18 @@
+Qty Value           Device                    Package          Parts      Description 100UF
+1   0               4P                        PH2.0-PTH-4P     P1                          
+2   0               BUTTON-2PSWITCH-TURTLE-2P 2P-SWITCH-TURTLE SW1, SW2                    
+1   0               PINHD-1X3V2               1X03-V2          JP3        PIN HEADER       
+1   0.1UF           CAPC0805                  C_0805           C6                          
+3   10K             RESISTORR0805             R_0805           R1, R2, R3                  
+1   1UF             CAPC0805                  C_0805           C3                          
+1   220UF/16V       CPOLUD-6.3X5.8            CPOL_A_6.3X5.8   C2                     16V  
+1   4.7K            RESISTORR0805             R_0805           R5                          
+1   47UF/50V        CPOLUD-6.3X5.8            CPOL_A_6.3X5.8   C1                     16V  
+1   4X7-DOT-12P0.56 4X7-DOT-12P0.56           0.56-4X7-12P     U$9                         
+1   68UH            INDUCTOR_SWPA6045         SWPA-6045        U$6                         
+1   ATTINY404       ATTINY404                 SO14             U$1                         
+2   FUSE            FUSE                      FUSE_0805        F1, F2                      
+1   SN65LBC184      SN65LBC184                SO8              U$2                         
+2   SS34            DIODE2010                 D_2010/SMA       N1, N2                      
+1   TM1650          TM1650                    SO16             U$8                         
+1   XL1509          XL1509                    SO08             U$4                         
